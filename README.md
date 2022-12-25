@@ -1,4 +1,4 @@
-<h1 align="center">Hi here, I'm <a href="https://daniilshat.ru/" target="_blank">@mr-akkerman</a>
+<h1 align="center">Hi here, I'm <a href="https://twitter.com/akkerman_ivan" target="_blank">@mr-akkerman</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Creator of digital content 📲 Backend dev</h3>
 
