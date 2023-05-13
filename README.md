@@ -4,7 +4,7 @@
 
 I am interested in automation, telegram bots, API for developers, game development, startup creation.
 
-Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis
+Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis/Docker/
 
 - 🔭 I’m currently working on OpenVPN, Telegram bots 
 - 🌱 I’m currently learning Selery, Tests 
