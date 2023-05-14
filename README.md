@@ -4,10 +4,10 @@
 
 I am interested in automation, telegram bots, API for developers, game development, startup creation.
 
-Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis/Docker/
+Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis/Docker
 
 - 🔭 I’m currently working on OpenVPN, Telegram bots 
-- 🌱 I’m currently learning Selery, Tests 
+- 🌱 I’m currently learning CI/CD
 - 📫 How to reach me: ivan@akkerman-hub.io 
 
 <br><br><br>
