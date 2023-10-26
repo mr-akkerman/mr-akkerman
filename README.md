@@ -6,8 +6,8 @@ I am interested in automation, telegram bots, API for developers, game developme
 
 Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis/Docker
 
-- 🔭 I’m currently working on OpenVPN, Telegram bots 
-- 🌱 I’m currently learning CI/CD
+- 🔭 I’m currently working on OpenVPN, Telegram bots, xRay, DB
+- 🌱 I’m currently learning CI/CD, JS (Vue.js)
 - 📫 How to reach me: ivan@akkerman-hub.io 
 
 <br><br><br>
