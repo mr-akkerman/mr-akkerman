@@ -2,12 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Creator of digital content 📲 Backend dev</h3>
 
-I am interested in automation, telegram bots, API for developers, game development, startup creation.
+I am interested in automation, telegram bots, API for developers, game development, startup creation, AI
 
 Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis/Docker
 
-- 🔭 I’m currently working on OpenVPN, telegram bots, xRay-core, Vision PRO dev (AR)
-- 🌱 I’m currently learning CI/CD, LM
+- 🔭 I’m currently working on Vision PRO dev (AR), transformers, LangChain, LLM
+- 🌱 I’m currently learning CI/CD, LLM
 - 📫 How to reach me: ivan@akkerman-hub.io 
 
 <br><br><br>
