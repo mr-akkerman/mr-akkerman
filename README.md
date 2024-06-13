@@ -4,10 +4,10 @@
 
 I am interested in automation, telegram bots, API for developers, game development, startup creation, AI
 
-Skills: Python/Go/FastAPI/Flask/Django/PostgreSQL/Redis/Docker
+Skills: Python/Go/JS/PostgreSQL/Redis/Docker/LLM
 
-- 🔭 I’m currently working on Vision PRO dev (AR), transformers, LangChain, LLM
-- 🌱 I’m currently learning CI/CD, LLM
+- 🔭 I’m currently working on transformers, LangChain, LLM, Telegram bots, Web dev
+- 🌱 I’m currently learning CI/CD, LLM, React
 - 📫 How to reach me: ivan@akkerman-hub.io 
 
 <br><br><br>
