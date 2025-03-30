@@ -7,7 +7,7 @@
 
 ## 🏴‍☠️ WHO AM I
 
-Digital vagabond coding from beaches, mountains, and anywhere with decent WiFi. Currently broadcasting from **Phuket, Thailand** 🏝️
+Digital vagabond coding from beaches, mountains, and anywhere with decent WiFi. Currently broadcasting from **Thailand** 🏝️
 
 I create whatever the fuck I want. No corporate bullshit, just pure digital craftsmanship on my own terms.
 
